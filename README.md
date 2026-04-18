@@ -6,8 +6,9 @@ Using Modal to host the inference. Using facebook/Sam3. To run, need to enable h
 
 hf auth login 
 
-"modal secret create hf-secret HF_TOKEN= [token]"
+modal setup - will make an api key and connect
 
+"modal secret create hf-secret HF_TOKEN= [token]" - connects to hugging face for SAM
 
 modal deploy [app name]
 
