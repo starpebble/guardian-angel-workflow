@@ -34,6 +34,7 @@ networkx==3.6.1
 numpy==2.4.4
 openai==2.32.0
 packaging==26.1
+pillow==12.2.0
 propcache==0.4.1
 protobuf==6.33.6
 pydantic==2.13.2
