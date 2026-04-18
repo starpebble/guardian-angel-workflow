@@ -8,3 +8,7 @@ hf auth login
 
 "modal secret create hf-secret HF_TOKEN= [token]"
 
+
+modal deploy [app name]
+
+Then run. 
