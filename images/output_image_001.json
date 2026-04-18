@@ -1,0 +1,17 @@
+{
+  "text_prompt": "Label the injured soliders",
+  "image_size": {
+    "width": 1536,
+    "height": 1024
+  },
+  "objects": [
+    {
+      "id": 0,
+      "score": 0.6165086627006531,
+      "width": 102.92626953125,
+      "height": 78.9591064453125,
+      "x": 1071.39599609375,
+      "y": 577.1698608398438
+    }
+  ]
+}

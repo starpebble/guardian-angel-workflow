@@ -1,0 +1,8 @@
+{
+  "text_prompt": "label the medics",
+  "image_size": {
+    "width": 1536,
+    "height": 1024
+  },
+  "objects": []
+}
