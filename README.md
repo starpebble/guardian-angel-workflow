@@ -2,6 +2,14 @@
 
 Triages mascal pictures captured by drones or medics and sends them to the Guardian Angel console.
 
+## Repos
+
+Guardian Angel Components:
+
+1. https://github.com/starpebble/guardian-angel-console
+2. https://github.com/starpebble/guardian-angel-radio-app
+3. https://github.com/starpebble/guardian-angel-workflow
+
 ## Tooling
 
 The workflow was made with OpenAI Codex.  Hugging Face gated access controls use of SAM3.  OpenAI APIs provide inference capabilities.
@@ -30,10 +38,4 @@ modal deploy [app name]
 
 Then run. 
 
-### Repos
 
-Guardian Angel Components:
-
-1. https://github.com/starpebble/guardian-angel-console
-2. https://github.com/starpebble/guardian-angel-radio-app
-3. https://github.com/starpebble/guardian-angel-workflow
