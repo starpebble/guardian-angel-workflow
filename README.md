@@ -2,10 +2,16 @@
 
 Triages mascal pictures captured by drones or medics and sends them to the Guardian Angel console.
 
+## Tooling
+
+The workflow was made with OpenAI Codex.  Hugging Face gated access controls use of SAM3.  OpenAI APIs provide inference capabilities.
+
 ### Tech Stack
 
 - SAM3
 - OpenAI GPT5
+- Python
+- HuggingFace
 
 ### Setup
 
